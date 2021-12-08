@@ -1,2 +1,2 @@
 # marius-app
-My e-commerce app..
+My e-commerce app.
